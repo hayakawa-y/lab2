@@ -145,3 +145,5 @@ Emoji:
     Markup: Code appears between colons : EMOJICODE:
  
 :mask:
+
+    markup: Naw Gloria Win Nyunt 652115513
